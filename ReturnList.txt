@@ -1,0 +1,8 @@
+
+
+Name:MANJU
+USN:01FE19BCS111
+BookName:JAVA
+BookID:154
+DateofIssue:15/12/21
+DateofReturn:14/12/21
